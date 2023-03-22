@@ -1,6 +1,7 @@
 name: kivy_tutorial
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - pip
   - pre-commit
@@ -16,3 +17,4 @@ dependencies:
   - pathlib
   - python=3.8
   - ipykernel
+  - kivy
